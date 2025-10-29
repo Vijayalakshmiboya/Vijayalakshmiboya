@@ -1,3 +1,4 @@
+![logo](https://github.com/Vijayalakshmiboya/Vijayalakshmiboya/blob/main/github-header-banner%20(1).png)
 <h1 align="center">Hi 👋, I'm Boya Vijayalakshmi</h1>
 <h3 align="center">A passionate fullstack developer and data science trainee from India</h3>
 <img align="right" width="400"  alt="coding" src="https://github.com/user-attachments/assets/21742cce-cbc4-40bc-b56b-46a483bd694d" />
